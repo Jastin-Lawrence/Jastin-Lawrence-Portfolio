@@ -1,0 +1,126 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: "Young Serif", serif;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-one__name{
+    font-size: 60px;
+}
+
+.section-one__role{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.section-one__contact{
+    background-color: orangered;
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+}
+
+.container{
+    padding: 50px;
+}
+
+.section-two{
+    margin-top: 20px;
+}
+
+.section-two__desc{
+    margin-top: 10px;
+}
+
+.section-two{
+    padding: 12px;
+    margin: 12px 12px 0px 12px;
+}
+
+.section-two__name,.section-two__email{
+    padding: 12px;
+}
+
+.section-two__address{
+    padding: 12px 12px 0px 12px ;
+
+}
+
+.section-two__box{
+    padding: 10px;
+    margin-top: 12px;
+}
+
+.section-two__line{
+    border: none;
+    border-bottom: 2px solid;
+    padding: 2px;
+    color: silver;   
+}
+
+.submit{
+    background-color: orangered;
+    padding: 8px;
+    margin-left: 120px;
+    border: none;
+    
+}
+
+
+.section-three{
+    background-color: #6462FD;
+    padding: 20px;
+    border-radius: 12px;
+    margin-top: 20px;
+    display: inline-block;
+    height: 200px;
+     vertical-align: top;
+    
+}
+
+.section-four{
+    
+    background-color: #fe7517;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    display: inline-block;
+    padding-top: 20px;
+    height: 200px;
+    
+}
+
+li{
+    list-style: none;
+}
+
+.section-five{
+    margin-top: 20px;
+    background-color: black;
+    padding: 5px;
+    color: white;
+}
+
+.section-five__tittle{
+    
+    padding: 5px;
+}
+
+.section-five__tag{
+    padding: 10px;
+}
+
+
